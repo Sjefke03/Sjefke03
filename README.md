@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sjefke03
 - 👀 I’m interested in general programming
-- 🌱 I’m currently learning java
+- 🌱 I’m a computer science student
 
 <!---
 Sjefke03/Sjefke03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
