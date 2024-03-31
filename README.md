@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sjefke03
-- 👀 I’m interested in general programming
 - 🌱 I’m a computer science student
 
 <!---
